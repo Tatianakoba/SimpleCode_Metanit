@@ -1,0 +1,8 @@
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\obj\Debug\Simple code (Globalisation).csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\obj\Debug\Simple code (Globalisation).csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\obj\Debug\Simple code (Globalisation).csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\bin\Debug\Simple code (Globalisation).exe.config
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\bin\Debug\Simple code (Globalisation).exe
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\bin\Debug\Simple code (Globalisation).pdb
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\obj\Debug\Simple code (Globalisation).exe
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\obj\Debug\Simple code (Globalisation).pdb
