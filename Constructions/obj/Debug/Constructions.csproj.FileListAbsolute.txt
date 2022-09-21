@@ -1,0 +1,8 @@
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\Constructions\bin\Debug\Constructions.exe.config
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\Constructions\bin\Debug\Constructions.exe
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\Constructions\bin\Debug\Constructions.pdb
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\Constructions\obj\Debug\Constructions.csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\Constructions\obj\Debug\Constructions.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\Constructions\obj\Debug\Constructions.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\Constructions\obj\Debug\Constructions.exe
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\Constructions\obj\Debug\Constructions.pdb

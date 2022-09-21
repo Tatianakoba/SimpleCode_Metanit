@@ -19,8 +19,20 @@ namespace Constructions
                     break;
                 case "N":
                     Console.WriteLine("Вы нажали клавишу N");
-                    break ;
+                    break;
+                default:
+                    Console.WriteLine("Вы нажали неизвестную клавишу");
+                    break;
             }
+
+            //тернарный оператор ор1?ор2:ор3 (если ор1 истина, то выполняется ор2, если ложно, то выполняется ор3
+            int x = 3;
+            int y = 2;
+            Console.WriteLine("Введите + или -");
+            string selection2 = Console.ReadLine();
+            int z = selection2 == "+" ? (x + y) : (x - y);
+            Console.WriteLine(z);
+            Console.ReadKey();
 
 
         }
