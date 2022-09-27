@@ -1,0 +1,8 @@
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\004_Structures\bin\Debug\004_Structures.exe.config
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\004_Structures\bin\Debug\004_Structures.exe
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\004_Structures\bin\Debug\004_Structures.pdb
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\004_Structures\obj\Debug\004_Structures.csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\004_Structures\obj\Debug\004_Structures.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\004_Structures\obj\Debug\004_Structures.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\004_Structures\obj\Debug\004_Structures.exe
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\004_Structures\obj\Debug\004_Structures.pdb

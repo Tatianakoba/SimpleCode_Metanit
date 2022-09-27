@@ -1,0 +1,8 @@
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\003_enum\bin\Debug\003_enum.exe.config
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\003_enum\bin\Debug\003_enum.exe
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\003_enum\bin\Debug\003_enum.pdb
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\003_enum\obj\Debug\003_enum.csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\003_enum\obj\Debug\003_enum.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\003_enum\obj\Debug\003_enum.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\003_enum\obj\Debug\003_enum.exe
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\003_enum\obj\Debug\003_enum.pdb

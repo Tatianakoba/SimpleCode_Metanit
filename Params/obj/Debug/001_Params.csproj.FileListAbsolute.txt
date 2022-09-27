@@ -1,0 +1,8 @@
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\Params\bin\Debug\Params.exe.config
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\Params\bin\Debug\Params.exe
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\Params\bin\Debug\Params.pdb
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\Params\obj\Debug\001_Params.csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\Params\obj\Debug\001_Params.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\Params\obj\Debug\001_Params.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\Params\obj\Debug\Params.exe
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\Params\obj\Debug\Params.pdb

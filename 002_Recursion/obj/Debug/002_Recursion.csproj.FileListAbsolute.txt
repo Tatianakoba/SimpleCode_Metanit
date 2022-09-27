@@ -1,0 +1,8 @@
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\002_Recursion\bin\Debug\002_Recursion.exe.config
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\002_Recursion\bin\Debug\002_Recursion.exe
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\002_Recursion\bin\Debug\002_Recursion.pdb
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\002_Recursion\obj\Debug\002_Recursion.csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\002_Recursion\obj\Debug\002_Recursion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\002_Recursion\obj\Debug\002_Recursion.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\002_Recursion\obj\Debug\002_Recursion.exe
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\002_Recursion\obj\Debug\002_Recursion.pdb
