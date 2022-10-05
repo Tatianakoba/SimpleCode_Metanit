@@ -1,0 +1,8 @@
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\005_tuples\bin\Debug\005_tuples.exe.config
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\005_tuples\bin\Debug\005_tuples.exe
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\005_tuples\bin\Debug\005_tuples.pdb
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\005_tuples\obj\Debug\005_tuples.csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\005_tuples\obj\Debug\005_tuples.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\005_tuples\obj\Debug\005_tuples.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\005_tuples\obj\Debug\005_tuples.exe
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\005_tuples\obj\Debug\005_tuples.pdb

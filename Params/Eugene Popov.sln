@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003_enum", "..\003_enum\003
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004_Structures", "..\004_Structures\004_Structures.csproj", "{DEFDF8E8-859A-407C-83BA-2C281FC64961}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005_tuples", "..\005_tuples\005_tuples.csproj", "{DF153FB1-1598-4F63-AF62-03D48E5CFDD2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{DEFDF8E8-859A-407C-83BA-2C281FC64961}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DEFDF8E8-859A-407C-83BA-2C281FC64961}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DEFDF8E8-859A-407C-83BA-2C281FC64961}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF153FB1-1598-4F63-AF62-03D48E5CFDD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF153FB1-1598-4F63-AF62-03D48E5CFDD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF153FB1-1598-4F63-AF62-03D48E5CFDD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF153FB1-1598-4F63-AF62-03D48E5CFDD2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
