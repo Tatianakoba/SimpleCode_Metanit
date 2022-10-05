@@ -1,0 +1,8 @@
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\007_Variables_links\bin\Debug\007_Variables_links.exe.config
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\007_Variables_links\bin\Debug\007_Variables_links.exe
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\007_Variables_links\bin\Debug\007_Variables_links.pdb
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\007_Variables_links\obj\Debug\007_Variables_links.csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\007_Variables_links\obj\Debug\007_Variables_links.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\007_Variables_links\obj\Debug\007_Variables_links.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\007_Variables_links\obj\Debug\007_Variables_links.exe
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\007_Variables_links\obj\Debug\007_Variables_links.pdb

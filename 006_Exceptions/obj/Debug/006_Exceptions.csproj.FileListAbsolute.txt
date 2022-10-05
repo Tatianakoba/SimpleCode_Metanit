@@ -1,0 +1,8 @@
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\006_Exceptions\bin\Debug\006_Exceptions.exe.config
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\006_Exceptions\bin\Debug\006_Exceptions.exe
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\006_Exceptions\bin\Debug\006_Exceptions.pdb
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\006_Exceptions\obj\Debug\006_Exceptions.csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\006_Exceptions\obj\Debug\006_Exceptions.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\006_Exceptions\obj\Debug\006_Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\006_Exceptions\obj\Debug\006_Exceptions.exe
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\006_Exceptions\obj\Debug\006_Exceptions.pdb

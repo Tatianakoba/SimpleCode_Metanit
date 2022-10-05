@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004_Structures", "..\004_St
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005_tuples", "..\005_tuples\005_tuples.csproj", "{DF153FB1-1598-4F63-AF62-03D48E5CFDD2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006_Exceptions", "..\006_Exceptions\006_Exceptions.csproj", "{C4F10777-8472-4D8E-A70C-8B5975C9753E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007_Variables_links", "..\007_Variables_links\007_Variables_links.csproj", "{3B641B98-4BF2-406F-93F4-A2C9DB4A7050}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{DF153FB1-1598-4F63-AF62-03D48E5CFDD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF153FB1-1598-4F63-AF62-03D48E5CFDD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF153FB1-1598-4F63-AF62-03D48E5CFDD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4F10777-8472-4D8E-A70C-8B5975C9753E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4F10777-8472-4D8E-A70C-8B5975C9753E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4F10777-8472-4D8E-A70C-8B5975C9753E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4F10777-8472-4D8E-A70C-8B5975C9753E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B641B98-4BF2-406F-93F4-A2C9DB4A7050}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B641B98-4BF2-406F-93F4-A2C9DB4A7050}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B641B98-4BF2-406F-93F4-A2C9DB4A7050}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B641B98-4BF2-406F-93F4-A2C9DB4A7050}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
