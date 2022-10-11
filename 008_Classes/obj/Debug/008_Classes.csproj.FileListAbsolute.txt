@@ -1,0 +1,8 @@
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\008_Classes\bin\Debug\008_Classes.exe.config
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\008_Classes\bin\Debug\008_Classes.exe
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\008_Classes\bin\Debug\008_Classes.pdb
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\008_Classes\obj\Debug\008_Classes.csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\008_Classes\obj\Debug\008_Classes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\008_Classes\obj\Debug\008_Classes.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\008_Classes\obj\Debug\008_Classes.exe
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\008_Classes\obj\Debug\008_Classes.pdb
