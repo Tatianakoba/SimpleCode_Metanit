@@ -15,7 +15,7 @@ namespace _009_Classes_objects
             //Console.WriteLine($"{user1.name} - {user1.age}");
 
             Person person1 = new Person {name = "Max", age = 21};
-            ChangePerson(person1);
+            ChangePerson(ref person1);
             Console.WriteLine($"{person1.name} - {person1.age}");
             Console.ReadKey();
         }
@@ -24,10 +24,11 @@ namespace _009_Classes_objects
             user.name = "Bob";
             user.age = 33;
         }
-        static void ChangePerson(Person person)
+        static void ChangePerson(ref Person person)
         {
             person.name = "Bobby";
             person.age = 31;
+            person = new Person { name = "Bill", age = 31 };
 
         }
     }
