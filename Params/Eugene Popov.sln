@@ -27,6 +27,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Accounts", "..\Accounts\Acc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "011_properties", "..\011_properties\011_properties.csproj", "{7E11CFCA-2B7E-45A8-8357-F2FAD8E98732}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "012_Methods(overloading)", "..\012_Methods(overloading)\012_Methods(overloading).csproj", "{532CE401-183C-40D2-A3F0-0337B416D779}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "013_Static_Classes", "..\013_Static_Classes\013_Static_Classes.csproj", "{0B991680-D489-4925-A7EB-B20E83B82C22}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +85,14 @@ Global
 		{7E11CFCA-2B7E-45A8-8357-F2FAD8E98732}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7E11CFCA-2B7E-45A8-8357-F2FAD8E98732}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7E11CFCA-2B7E-45A8-8357-F2FAD8E98732}.Release|Any CPU.Build.0 = Release|Any CPU
+		{532CE401-183C-40D2-A3F0-0337B416D779}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{532CE401-183C-40D2-A3F0-0337B416D779}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{532CE401-183C-40D2-A3F0-0337B416D779}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{532CE401-183C-40D2-A3F0-0337B416D779}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B991680-D489-4925-A7EB-B20E83B82C22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B991680-D489-4925-A7EB-B20E83B82C22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B991680-D489-4925-A7EB-B20E83B82C22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B991680-D489-4925-A7EB-B20E83B82C22}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

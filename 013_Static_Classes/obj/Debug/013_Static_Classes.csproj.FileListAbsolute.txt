@@ -1,0 +1,8 @@
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\013_Static_Classes\bin\Debug\013_Static_Classes.exe.config
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\013_Static_Classes\bin\Debug\013_Static_Classes.exe
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\013_Static_Classes\bin\Debug\013_Static_Classes.pdb
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\013_Static_Classes\obj\Debug\013_Static_Classes.csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\013_Static_Classes\obj\Debug\013_Static_Classes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\013_Static_Classes\obj\Debug\013_Static_Classes.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\013_Static_Classes\obj\Debug\013_Static_Classes.exe
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\013_Static_Classes\obj\Debug\013_Static_Classes.pdb
