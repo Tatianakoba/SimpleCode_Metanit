@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "012_Methods(overloading)", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "013_Static_Classes", "..\013_Static_Classes\013_Static_Classes.csproj", "{0B991680-D489-4925-A7EB-B20E83B82C22}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "014_Operator_overload", "..\014_Operator_overload\014_Operator_overload.csproj", "{2CCD00D2-4FD2-43C4-96F0-B82DB034440D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{0B991680-D489-4925-A7EB-B20E83B82C22}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B991680-D489-4925-A7EB-B20E83B82C22}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B991680-D489-4925-A7EB-B20E83B82C22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CCD00D2-4FD2-43C4-96F0-B82DB034440D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CCD00D2-4FD2-43C4-96F0-B82DB034440D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CCD00D2-4FD2-43C4-96F0-B82DB034440D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CCD00D2-4FD2-43C4-96F0-B82DB034440D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

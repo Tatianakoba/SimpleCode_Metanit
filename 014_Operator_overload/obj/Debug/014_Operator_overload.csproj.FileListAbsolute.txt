@@ -1,0 +1,8 @@
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\014_Operator_overload\bin\Debug\014_Operator_overload.exe.config
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\014_Operator_overload\bin\Debug\014_Operator_overload.exe
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\014_Operator_overload\bin\Debug\014_Operator_overload.pdb
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\014_Operator_overload\obj\Debug\014_Operator_overload.csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\014_Operator_overload\obj\Debug\014_Operator_overload.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\014_Operator_overload\obj\Debug\014_Operator_overload.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\014_Operator_overload\obj\Debug\014_Operator_overload.exe
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\014_Operator_overload\obj\Debug\014_Operator_overload.pdb
