@@ -18,7 +18,7 @@ namespace _014_Operator_overload
             bool result = c1 > c2;
             Console.WriteLine(result);
             int x = c2 + 20;
-            Console.WriteLine(x); 
+            Console.WriteLine(x);
             c1++;
             ++c1;
             Console.ReadKey();

@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "013_Static_Classes", "..\01
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "014_Operator_overload", "..\014_Operator_overload\014_Operator_overload.csproj", "{2CCD00D2-4FD2-43C4-96F0-B82DB034440D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "015_Type_Conversion", "..\015_Type_Conversion\015_Type_Conversion.csproj", "{054231FA-A2F5-45D2-83C4-D60B4E94C425}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{2CCD00D2-4FD2-43C4-96F0-B82DB034440D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2CCD00D2-4FD2-43C4-96F0-B82DB034440D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2CCD00D2-4FD2-43C4-96F0-B82DB034440D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{054231FA-A2F5-45D2-83C4-D60B4E94C425}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{054231FA-A2F5-45D2-83C4-D60B4E94C425}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{054231FA-A2F5-45D2-83C4-D60B4E94C425}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{054231FA-A2F5-45D2-83C4-D60B4E94C425}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
