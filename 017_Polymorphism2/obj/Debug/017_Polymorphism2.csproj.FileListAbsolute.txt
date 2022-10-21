@@ -1,0 +1,8 @@
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\017_Polymorphism2\bin\Debug\017_Polymorphism2.exe.config
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\017_Polymorphism2\bin\Debug\017_Polymorphism2.exe
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\017_Polymorphism2\bin\Debug\017_Polymorphism2.pdb
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\017_Polymorphism2\obj\Debug\017_Polymorphism2.csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\017_Polymorphism2\obj\Debug\017_Polymorphism2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\017_Polymorphism2\obj\Debug\017_Polymorphism2.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\017_Polymorphism2\obj\Debug\017_Polymorphism2.exe
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\017_Polymorphism2\obj\Debug\017_Polymorphism2.pdb
