@@ -1,0 +1,8 @@
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\018_Abstraction\bin\Debug\018_Abstraction.exe.config
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\018_Abstraction\bin\Debug\018_Abstraction.exe
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\018_Abstraction\bin\Debug\018_Abstraction.pdb
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\018_Abstraction\obj\Debug\018_Abstraction.csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\018_Abstraction\obj\Debug\018_Abstraction.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\018_Abstraction\obj\Debug\018_Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\018_Abstraction\obj\Debug\018_Abstraction.exe
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\018_Abstraction\obj\Debug\018_Abstraction.pdb
