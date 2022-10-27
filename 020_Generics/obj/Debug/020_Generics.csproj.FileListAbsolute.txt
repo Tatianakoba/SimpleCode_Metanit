@@ -1,0 +1,8 @@
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\020_Generics\obj\Debug\020_Generics.csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\020_Generics\obj\Debug\020_Generics.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\020_Generics\obj\Debug\020_Generics.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\020_Generics\bin\Debug\020_Generics.exe.config
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\020_Generics\bin\Debug\020_Generics.exe
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\020_Generics\bin\Debug\020_Generics.pdb
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\020_Generics\obj\Debug\020_Generics.exe
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\020_Generics\obj\Debug\020_Generics.pdb
