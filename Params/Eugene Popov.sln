@@ -47,7 +47,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "018_Abstraction", "..\018_A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "019_Abstarct_method", "..\019_Abstarct_method\019_Abstarct_method.csproj", "{A497B622-CA8F-4C13-96BA-8431A79CEBB2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "020_Generics", "..\020_Generics\020_Generics.csproj", "{97B110F8-844D-47E3-848C-B120A7B07E7A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "020_Generics1", "..\020_Generics\020_Generics1.csproj", "{97B110F8-844D-47E3-848C-B120A7B07E7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "020_Generics2", "..\020_Generics2\020_Generics2.csproj", "{601807E0-F3CA-4AB3-8AA4-5CDFED65FDD9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -147,6 +149,10 @@ Global
 		{97B110F8-844D-47E3-848C-B120A7B07E7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{97B110F8-844D-47E3-848C-B120A7B07E7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{97B110F8-844D-47E3-848C-B120A7B07E7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{601807E0-F3CA-4AB3-8AA4-5CDFED65FDD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{601807E0-F3CA-4AB3-8AA4-5CDFED65FDD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{601807E0-F3CA-4AB3-8AA4-5CDFED65FDD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{601807E0-F3CA-4AB3-8AA4-5CDFED65FDD9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
