@@ -1,0 +1,8 @@
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\021_Interfaces\bin\Debug\021_Interfaces.exe.config
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\021_Interfaces\bin\Debug\021_Interfaces.exe
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\021_Interfaces\bin\Debug\021_Interfaces.pdb
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\021_Interfaces\obj\Debug\021_Interfaces.csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\021_Interfaces\obj\Debug\021_Interfaces.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\021_Interfaces\obj\Debug\021_Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\021_Interfaces\obj\Debug\021_Interfaces.exe
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\021_Interfaces\obj\Debug\021_Interfaces.pdb
