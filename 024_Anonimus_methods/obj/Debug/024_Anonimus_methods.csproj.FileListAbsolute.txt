@@ -1,0 +1,8 @@
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\024_Anonimus_methods\bin\Debug\024_Anonimus_methods.exe.config
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\024_Anonimus_methods\bin\Debug\024_Anonimus_methods.exe
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\024_Anonimus_methods\bin\Debug\024_Anonimus_methods.pdb
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\024_Anonimus_methods\obj\Debug\024_Anonimus_methods.csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\024_Anonimus_methods\obj\Debug\024_Anonimus_methods.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\024_Anonimus_methods\obj\Debug\024_Anonimus_methods.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\024_Anonimus_methods\obj\Debug\024_Anonimus_methods.exe
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\024_Anonimus_methods\obj\Debug\024_Anonimus_methods.pdb
