@@ -1,0 +1,8 @@
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\ConsoleApp1\obj\Debug\Matrix.csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\ConsoleApp1\obj\Debug\Matrix.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\ConsoleApp1\obj\Debug\Matrix.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
