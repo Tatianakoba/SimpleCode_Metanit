@@ -23,24 +23,24 @@ namespace ConsoleApp1
                 Thread.Sleep(50);
             }
             
-            Console.ReadLine();
+            Console.ReadKey();
             Console.Clear();
-            String c = "Follow the white rabbit";
+            String c = "Follow the white rabbit.";
             foreach (char ch in c)
             {
                 Console.Write(ch);
                 Thread.Sleep(50);
             }
             
-            Console.ReadLine();
+            Console.ReadKey();
             Console.Clear();
-            String d = "Knok, knok, Neo";
+            String d = "Knok, knok, Neo.";
             foreach (char ch in d)
             {
                 Console.Write(ch);
                 Thread.Sleep(50);
             }
-            Console.ReadLine();
+            Console.ReadKey();
 
         }
     }
