@@ -1,0 +1,8 @@
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\if, switch\bin\Debug\if, switch.exe.config
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\if, switch\bin\Debug\if, switch.exe
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\if, switch\bin\Debug\if, switch.pdb
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\if, switch\obj\Debug\if, switch.csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\if, switch\obj\Debug\if, switch.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\if, switch\obj\Debug\if, switch.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\if, switch\obj\Debug\if, switch.exe
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\if, switch\obj\Debug\if, switch.pdb
