@@ -10,7 +10,7 @@ namespace variables
             int a = 5;
             int c = 5;
             double b = 3.4;
-            string s = "hello   boy";
+            string s = "hello   ";
             float f = 3.5f;
             decimal d = 1.2M;
             bool x = true;
@@ -48,6 +48,17 @@ namespace variables
             Console.WriteLine(s.Trim());
 
 
+            Console.ReadLine();
+            Console.Clear();
+            int result;
+            if (int.TryParse(Console.ReadLine(), out result))
+            {
+                Console.WriteLine(result);
+            }
+            else
+            {
+                Console.WriteLine("Ты не прав!");
+            }
             Console.ReadLine();
         }
     }
