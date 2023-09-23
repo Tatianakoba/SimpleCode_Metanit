@@ -1,0 +1,8 @@
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\For,foreach,while\bin\Debug\For,foreach,while.exe.config
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\For,foreach,while\bin\Debug\For,foreach,while.exe
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\For,foreach,while\bin\Debug\For,foreach,while.pdb
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\For,foreach,while\obj\Debug\For,foreach,while.csproj.AssemblyReference.cache
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\For,foreach,while\obj\Debug\For,foreach,while.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\For,foreach,while\obj\Debug\For,foreach,while.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\For,foreach,while\obj\Debug\For,foreach,while.exe
+C:\Users\Tatiana\source\repos\Simple code (Globalisation)\For,foreach,while\obj\Debug\For,foreach,while.pdb
